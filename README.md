@@ -10,3 +10,7 @@
 > 06 July 2020
 - CSV met 122 producten geïmporteerd
 - Backup gemaakt voor toekomstig herstel
+
+### Versie 1.0.2
+> 17 July 2020
+- .htacces gegenereerd voor beveiliging partner downloads, op deze manier zijn de downloads niet publiek toegankelijk.
