@@ -13,4 +13,4 @@
 
 ### Versie 1.0.2
 > 17 July 2020
-- .htacces gegenereerd voor beveiliging partner downloads, op deze manier zijn de downloads niet publiek toegankelijk.
+- .htaccess gegenereerd voor beveiliging partner downloads, op deze manier zijn de downloads niet publiek toegankelijk.
