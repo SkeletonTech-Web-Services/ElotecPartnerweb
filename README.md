@@ -14,3 +14,8 @@
 ### Versie 1.0.2
 > 17 July 2020
 - .htaccess gegenereerd voor beveiliging partner downloads, op deze manier zijn de downloads niet publiek toegankelijk.
+
+### Versie 1.0.3
+> 7 Augustus 2020
+- Stijleringsfouten opgelost (knoppen werden onleesbaar)
+- Blogpost placeholders vervangen
